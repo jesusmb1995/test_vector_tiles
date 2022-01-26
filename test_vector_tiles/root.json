@@ -16,7 +16,7 @@
   },
   "sources" : {
     "OpenMapTiles" : {
-      "url" : "https://vectortiles10.geo.admin.ch/mbtiles/org.openstreetmap-openmaptiles.vt/v001.json",
+      "url": "https://raw.githubusercontent.com/jesusmb1995/test_vector_tiles/main/test_vector_tiles/mbtiles/v001.json",
       "type" : "vector"
     }
   },
