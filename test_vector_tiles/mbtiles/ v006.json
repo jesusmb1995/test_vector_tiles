@@ -1,10 +1,10 @@
 {
   "tiles": [
-    "https://vectortiles10.geo.admin.ch/mbtiles/ch.swisstopo.leichte-basiskarte.vt/v006/{z}/{x}/{y}.pbf",
-    "https://vectortiles11.geo.admin.ch/mbtiles/ch.swisstopo.leichte-basiskarte.vt/v006/{z}/{x}/{y}.pbf",
-    "https://vectortiles12.geo.admin.ch/mbtiles/ch.swisstopo.leichte-basiskarte.vt/v006/{z}/{x}/{y}.pbf",
-    "https://vectortiles13.geo.admin.ch/mbtiles/ch.swisstopo.leichte-basiskarte.vt/v006/{z}/{x}/{y}.pbf",
-    "https://vectortiles14.geo.admin.ch/mbtiles/ch.swisstopo.leichte-basiskarte.vt/v006/{z}/{x}/{y}.pbf"
+    "https://vectortiles0.geo.admin.ch/tiles/ch.swisstopo.leichte-basiskarte.vt/v1.0.0/{z}/{x}/{y}.pbf",
+    "https://vectortiles1.geo.admin.ch/tiles/ch.swisstopo.leichte-basiskarte.vt/v1.0.0/{z}/{x}/{y}.pbf",
+    "https://vectortiles2.geo.admin.ch/tiles/ch.swisstopo.leichte-basiskarte.vt/v1.0.0/{z}/{x}/{y}.pbf",
+    "https://vectortiles3.geo.admin.ch/tiles/ch.swisstopo.leichte-basiskarte.vt/v1.0.0/{z}/{x}/{y}.pbf",
+    "https://vectortiles4.geo.admin.ch/tiles/ch.swisstopo.leichte-basiskarte.vt/v1.0.0/{z}/{x}/{y}.pbf"
   ],
   "name": "ch.swisstopo.leichte-basiskarte.vt",
   "format": "pbf",
