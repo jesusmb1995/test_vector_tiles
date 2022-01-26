@@ -18,10 +18,6 @@
     "OpenMapTiles" : {
       "url" : "https://vectortiles10.geo.admin.ch/mbtiles/org.openstreetmap-openmaptiles.vt/v001.json",
       "type" : "vector"
-    },
-    "Leichte Basiskarte" : {
-      "url" : "https://vectortiles10.geo.admin.ch/mbtiles/ch.swisstopo.leichte-basiskarte.vt/v006.json",
-      "type" : "vector"
     }
   },
   "sprite" : "https://vectortiles10.geo.admin.ch/gl-styles/ch.swisstopo.leichte-basiskarte.vt/v006/sprite",
