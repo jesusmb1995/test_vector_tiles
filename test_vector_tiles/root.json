@@ -16,7 +16,7 @@
   },
   "sources" : {
     "basiskarte" : {
-      "url": "https://raw.githubusercontent.com/jesusmb1995/test_vector_tiles/main/test_vector_tiles/mbtiles/v006.json",
+      "url": "https://raw.githubusercontent.com/jesusmb1995/test_vector_tiles/main/test_vector_tiles/mbtiles/tiles.json",
       "type" : "vector"
     }
   },
