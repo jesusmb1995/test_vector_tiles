@@ -15,8 +15,8 @@
     "intensity" : 0
   },
   "sources" : {
-    "OpenMapTiles" : {
-      "url": "https://raw.githubusercontent.com/jesusmb1995/test_vector_tiles/main/test_vector_tiles/mbtiles/v001.json",
+    "basiskarte" : {
+      "url": "https://raw.githubusercontent.com/jesusmb1995/test_vector_tiles/main/test_vector_tiles/mbtiles/v006.json",
       "type" : "vector"
     }
   },
