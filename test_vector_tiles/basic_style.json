@@ -1,0 +1,38 @@
+{
+  "version": 8,
+  "name": "meteomatics_parameter",
+  "metadata": {"maputnik:renderer": "mbgljs", "openmaptiles:version": "3.x"},
+  "center": [7.969664962869274, 47.021278030856564],
+  "zoom": 9.333879434342306,
+  "bearing": 0,
+  "pitch": 0,
+  "sources": {
+    "swissmaptiles": {
+      "type": "vector",
+      "url": "https://vectortiles.geo.admin.ch/tiles/ch.swisstopo.leichte-basiskarte.vt/v1.0.0/tiles.json"
+    }
+  },
+  "transition": {},
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "layout": {"visibility": "visible"},
+      "paint": {"background-color": "rgba(255, 255, 255, 1)"}
+    },
+    {
+      "id": "contour_line",
+      "type": "line",
+      "metadata": {"maputnik:comment": "color: rgb(191,138,64)"},
+      "source": "swissmaptiles",
+      "source-layer": "contour_line",
+      "layout": {"visibility": "visible"},
+      "paint": {
+        "line-blur": 0.4,
+        "line-color": "rgb(0,0,0)",
+        "line-width": 2
+      }
+    }
+  ],
+  "id": "b484873e-ac8c-45d6-a562-5402ab0f4985"
+}
